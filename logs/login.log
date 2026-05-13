@@ -1,0 +1,86 @@
+2026-01-13 11:40:42,927 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-13 11:40:42,927 - [33mPress CTRL+C to quit[0m
+2026-01-13 11:40:42,928 -  * Restarting with stat
+2026-01-13 11:40:42,994 -  * Debugger is active!
+2026-01-13 11:40:42,999 -  * Debugger PIN: 306-471-441
+2026-01-13 11:41:25,659 - 127.0.0.1 - - [13/Jan/2026 11:41:25] "GET /login HTTP/1.1" 200 -
+2026-01-13 11:41:25,668 - 127.0.0.1 - - [13/Jan/2026 11:41:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-13 11:41:29,668 - FAILED login from IP 127.0.0.1
+2026-01-13 11:41:29,668 - 127.0.0.1 - - [13/Jan/2026 11:41:29] "POST /login HTTP/1.1" 200 -
+2026-01-13 11:42:01,278 - FAILED login from IP 127.0.0.1
+2026-01-13 11:42:01,279 - 127.0.0.1 - - [13/Jan/2026 11:42:01] "POST /login HTTP/1.1" 200 -
+2026-01-13 11:42:18,372 - FAILED login from IP 127.0.0.1
+2026-01-13 11:42:18,372 - 127.0.0.1 - - [13/Jan/2026 11:42:18] "POST /login HTTP/1.1" 200 -
+2026-01-13 11:42:31,114 - SUCCESS login from IP 127.0.0.1
+2026-01-13 11:42:31,115 - 127.0.0.1 - - [13/Jan/2026 11:42:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-01-13 11:42:31,124 - 127.0.0.1 - - [13/Jan/2026 11:42:31] "GET /dashboard HTTP/1.1" 200 -
+2026-01-13 11:42:37,136 - User logged out
+2026-01-13 11:42:37,137 - 127.0.0.1 - - [13/Jan/2026 11:42:37] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-01-13 11:42:37,145 - 127.0.0.1 - - [13/Jan/2026 11:42:37] "GET /login HTTP/1.1" 200 -
+2026-01-13 11:42:43,572 - FAILED login from IP 127.0.0.1
+2026-01-13 11:42:43,573 - 127.0.0.1 - - [13/Jan/2026 11:42:43] "POST /login HTTP/1.1" 200 -
+2026-01-13 11:42:51,156 - FAILED login from IP 127.0.0.1
+2026-01-13 11:42:51,157 - 127.0.0.1 - - [13/Jan/2026 11:42:51] "POST /login HTTP/1.1" 200 -
+2026-01-13 11:42:57,632 - FAILED login from IP 127.0.0.1
+2026-01-13 11:42:57,633 - 127.0.0.1 - - [13/Jan/2026 11:42:57] "POST /login HTTP/1.1" 200 -
+2026-01-19 16:21:53,374 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-19 16:21:53,375 - [33mPress CTRL+C to quit[0m
+2026-01-19 16:21:53,375 -  * Restarting with stat
+2026-01-19 16:21:53,459 -  * Debugger is active!
+2026-01-19 16:21:53,463 -  * Debugger PIN: 306-471-441
+2026-01-19 16:22:49,558 - 127.0.0.1 - - [19/Jan/2026 16:22:49] "GET /login HTTP/1.1" 200 -
+2026-01-19 16:22:49,586 - 127.0.0.1 - - [19/Jan/2026 16:22:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-19 16:23:13,396 - SUCCESS login from IP 127.0.0.1
+2026-01-19 16:23:13,398 - 127.0.0.1 - - [19/Jan/2026 16:23:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-01-19 16:23:13,447 - 127.0.0.1 - - [19/Jan/2026 16:23:13] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 16:23:16,204 - User logged out
+2026-01-19 16:23:16,204 - 127.0.0.1 - - [19/Jan/2026 16:23:16] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-01-19 16:23:16,211 - 127.0.0.1 - - [19/Jan/2026 16:23:16] "GET /login HTTP/1.1" 200 -
+2026-01-19 16:23:21,779 - FAILED login from IP 127.0.0.1
+2026-01-19 16:23:21,780 - 127.0.0.1 - - [19/Jan/2026 16:23:21] "POST /login HTTP/1.1" 200 -
+2026-01-19 16:23:30,346 - FAILED login from IP 127.0.0.1
+2026-01-19 16:23:30,346 - 127.0.0.1 - - [19/Jan/2026 16:23:30] "POST /login HTTP/1.1" 200 -
+2026-01-19 16:23:42,333 - FAILED login from IP 127.0.0.1
+2026-01-19 16:23:42,334 - 127.0.0.1 - - [19/Jan/2026 16:23:42] "POST /login HTTP/1.1" 200 -
+2026-01-19 16:24:10,740 - 127.0.0.1 - - [19/Jan/2026 16:24:10] "GET /login HTTP/1.1" 200 -
+2026-01-19 16:24:22,135 - SUCCESS login from IP 127.0.0.1
+2026-01-19 16:24:22,135 - 127.0.0.1 - - [19/Jan/2026 16:24:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-01-19 16:24:22,138 - 127.0.0.1 - - [19/Jan/2026 16:24:22] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 16:37:10,085 - 127.0.0.1 - - [19/Jan/2026 16:37:10] "GET /login HTTP/1.1" 200 -
+2026-01-31 22:25:02,387 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-31 22:25:02,387 - [33mPress CTRL+C to quit[0m
+2026-01-31 22:25:02,388 -  * Restarting with stat
+2026-01-31 22:25:02,466 -  * Debugger is active!
+2026-01-31 22:25:02,470 -  * Debugger PIN: 836-324-338
+2026-01-31 22:26:11,678 - 127.0.0.1 - - [31/Jan/2026 22:26:11] "GET /login HTTP/1.1" 200 -
+2026-01-31 22:26:39,559 - FAILED login from IP 127.0.0.1
+2026-01-31 22:26:39,560 - 127.0.0.1 - - [31/Jan/2026 22:26:39] "POST /login HTTP/1.1" 200 -
+2026-01-31 22:26:57,978 - FAILED login from IP 127.0.0.1
+2026-01-31 22:26:57,980 - 127.0.0.1 - - [31/Jan/2026 22:26:57] "POST /login HTTP/1.1" 200 -
+2026-01-31 23:32:00,380 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-31 23:32:00,380 - [33mPress CTRL+C to quit[0m
+2026-01-31 23:32:00,380 -  * Restarting with stat
+2026-01-31 23:32:00,458 -  * Debugger is active!
+2026-01-31 23:32:00,462 -  * Debugger PIN: 836-324-338
+2026-01-31 23:32:18,970 - 127.0.0.1 - - [31/Jan/2026 23:32:18] "GET /login HTTP/1.1" 200 -
+2026-01-31 23:34:23,884 -  * Detected change in '/Users/dianaorozekkyzy/Documents/UKIM/Digital Forensics/login_forensics-app/app.py', reloading
+2026-01-31 23:34:23,909 -  * Restarting with stat
+2026-01-31 23:34:24,046 -  * Debugger is active!
+2026-01-31 23:34:24,049 -  * Debugger PIN: 836-324-338
+2026-01-31 23:35:18,896 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-31 23:35:18,896 - [33mPress CTRL+C to quit[0m
+2026-01-31 23:35:18,897 -  * Restarting with stat
+2026-01-31 23:35:18,975 -  * Debugger is active!
+2026-01-31 23:35:18,978 -  * Debugger PIN: 836-324-338
+2026-01-31 23:35:22,071 - 127.0.0.1 - - [31/Jan/2026 23:35:22] "GET /login HTTP/1.1" 200 -
+2026-01-31 23:35:33,218 - SUCCESS login from IP 127.0.0.1
+2026-01-31 23:35:33,219 - 127.0.0.1 - - [31/Jan/2026 23:35:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-01-31 23:35:33,265 - 127.0.0.1 - - [31/Jan/2026 23:35:33] "GET /dashboard HTTP/1.1" 200 -
+2026-01-31 23:35:36,139 - User logged out
+2026-01-31 23:35:36,139 - 127.0.0.1 - - [31/Jan/2026 23:35:36] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-01-31 23:35:36,144 - 127.0.0.1 - - [31/Jan/2026 23:35:36] "GET /login HTTP/1.1" 200 -
